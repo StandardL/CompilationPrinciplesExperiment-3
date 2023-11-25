@@ -1,0 +1,23 @@
+reg := $l&(l|d)#$
+a := 1 and 2;
+b := 3 or 4;
+c := not 5;
+read x;
+if(0<x)
+  fact := 1;
+  fact := x % 2;
+  fact := x ^ 2;
+  temp += 1;
+  repeat
+    fact := fact * x;
+    x := x - 1
+  until x = 0;
+  write fact
+else
+  for fact := x downto 1 do 
+    fact := fact * x;
+  enddo
+  for fact := x to 2 do
+    fact += 2;
+  enddo
+  write fact;
