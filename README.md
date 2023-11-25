@@ -74,19 +74,19 @@ RF -> (RE) | number | id
 
 **软件主界面**
 
-![软件主界面](D:\Coder\Github Repos\CompilationPrinciplesExperiment-3\images\软件主界面.png)
+![软件主界面](https://github.com/StandardL/CompilationPrinciplesExperiment-3/raw/main/images/软件主界面.png)
 
-![软件主界面2](D:\Coder\Github Repos\CompilationPrinciplesExperiment-3\images\软件主界面2.png)
+![软件主界面2](https://github.com/StandardL/CompilationPrinciplesExperiment-3/raw/main/images/软件主界面2.png)
 
 **软件通知示例**
 
-![软件通知](D:\Coder\Github Repos\CompilationPrinciplesExperiment-3\images\软件通知.png)
+![软件通知](https://github.com/StandardL/CompilationPrinciplesExperiment-3/raw/main/images/软件通知.png)
 
-![分析结束通知](D:\Coder\Github Repos\CompilationPrinciplesExperiment-3\images\分析结束通知.png)
+![分析结束通知](https://github.com/StandardL/CompilationPrinciplesExperiment-3/raw/main/images/分析结束通知.png)
 
 ### 🧪测试数据
 
-共2组测试数据，已放入[Test instance文件夹]().
+共2组测试数据，已放入[Test instance文件夹](https://github.com/StandardL/CompilationPrinciplesExperiment-3/tree/main/test%20instances).
 
 ## 🧭编译
 
@@ -114,11 +114,11 @@ RF -> (RE) | number | id
 
 选择安装**使用C++的桌面开发**
 
-<img src="D:\Coder\Github Repos\CompilationPrinciplesExperiment-3\images\VS组件.png" alt="image-20230926211152531" style="zoom:67%;" />
+<img src="https://github.com/StandardL/CompilationPrinciplesExperiment-3/raw/main/images/VS组件.png" alt="image-20230926211152531" style="zoom:67%;" />
 
 进入到Visual Studio 2022，在**扩展**>**管理扩展**>**联机**（**Extensions** > **Manage Extensions** > **Online**）处搜索安装Qt Visual Studio Tools.
 
-<img src="D:\Coder\Github Repos\CompilationPrinciplesExperiment-3\images\VS插件.png" alt="image-20230926211819218" style="zoom:80%;" />
+<img src="https://github.com/StandardL/CompilationPrinciplesExperiment-3/raw/main/images/VS插件.png" alt="image-20230926211819218" style="zoom:80%;" />
 
 重启Visual Studio 2022。
 
@@ -135,4 +135,4 @@ RF -> (RE) | number | id
 
 ## 🔗其他链接
 
-- [Console(CLI)版本](https://github.com/StandardL/ComplieExp2-Console)
+- [Console(CLI)版本](https://github.com/StandardL/ComplieExp3-Console)
